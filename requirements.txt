@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+duckduckgo-search
+requests
+markdown
+fpdf
+pypdf
+google-api-python-client
